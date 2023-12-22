@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/eplp/role-player-game-rpg-i/issues"
   },
-  "homepage": "https://github.com/eplp/role-player-game-rpg-i#readme"
+  "homepage": "https://github.com/eplp/role-player-game-rpg-i#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
