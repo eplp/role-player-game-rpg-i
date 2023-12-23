@@ -18,5 +18,8 @@
    "homepage": "https://github.com/eplp/role-player-game-rpg-i#readme",
    "devDependencies": {
       "jest": "^29.7.0"
+   },
+   "dependencies": {
+      "inquirer": "^9.2.12"
    }
 }
